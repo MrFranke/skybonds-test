@@ -3,4 +3,5 @@ function toPercent(data) {
   return data.map(item => (Number(item)/percent).toFixed(3));
 }
 
+
 module.exports = {toPercent};
