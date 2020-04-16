@@ -1,8 +1,6 @@
 # Долевое строительство
 Online example: https://repl.it/repls/WhoppingSmoothLanguage
 
-Запуск тестов: `npm run test`
-
 ### Сложность алгоритма
 `O(n)` – линейная сложность
 
